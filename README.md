@@ -1,7 +1,3 @@
 # BattleTankUE4
 
-## Just test
-* what's
-* going
-* on
-** here
+## Learning Unreal Engine 4
